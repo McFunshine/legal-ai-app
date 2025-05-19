@@ -13,7 +13,7 @@ Sponsored by Scroll | Amsterdam, The Netherlands | May 16-18, 2025
 
 Legal AI App is an innovative solution addressing the complexity and inaccessibility of Dutch rental law. Our platform provides real-time legal guidance for both tenants and landlords, democratizing access to legal information and reducing the power imbalance in rental relationships.
 
-![Legal AI App Interface](https://imgur.com/icSie4n)
+![Legal AI App Interface](legal-ai-app.png)
 
 ### The Problem
 - Dutch rental law is complex, opaque, and often inaccessible
