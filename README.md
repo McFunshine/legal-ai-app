@@ -35,11 +35,7 @@ Legal AI App is an innovative solution addressing the complexity and inaccessibi
 - Can my landlord withhold my deposit?
 - What should I do about repairs?
 
-#### Landlords (Projected as separate paid App)
-- Am I allowed to raise rent this much?
-- Must I fix this tenant-reported issue?
-- Can I reject a subletting request?
-- How can I document a deposit deduction?
+
 
 ## Technical Architecture
 
